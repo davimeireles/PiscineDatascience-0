@@ -31,7 +31,7 @@ git clone https://github.com/davimeireles/PiscineDatascience-0.git
 
 Navegue até o diretório do projeto:
 ```bash
-cd PiscineDatascience-0
+cd PiscineDatascience-0/ex00
 ```
 
 ### Passo 2: Configurando Variáveis de Ambiente
@@ -75,7 +75,7 @@ A flag `-d` permite que os containers sejam executados em segundo plano.
 Para acessar o banco de dados PostgresSQL no container Docker, use o seguinte comando:
 
 ```bash
-docker exec -it piscinedatascience-0_db_1 psql -U user -d name -W
+docker exec -it ex00_db_1 psql -U user -d name -W
 ```
 
 - -U user: Especifica o usuáiro do banco de dados.

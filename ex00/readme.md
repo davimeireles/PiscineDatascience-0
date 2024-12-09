@@ -26,12 +26,12 @@ Antes de começar, certifique-se de ter o Docker e o Docker Compose instalados e
 Clone este repositório em sua máquina local utilizando o seguiente comando:
 
 ```bash
-git clone https://github.com/davimeireles/PiscineDatascience-0.git
+git clone https://github.com/davimeireles/datascience-00.git
 ```
 
 Navegue até o diretório do projeto:
 ```bash
-cd PiscineDatascience-0/ex00
+cd datascience-00/ex00
 ```
 
 ### Passo 2: Configurando Variáveis de Ambiente
